@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,24 +40,31 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      id="namedview845"
-     showgrid="false"
-     inkscape:zoom="1.1421432"
-     inkscape:cx="-232.94746"
-     inkscape:cy="174.10251"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="-140.74177"
+     inkscape:cy="74.511118"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1412" />
+  </sodipodi:namedview>
   <path
      id="path851"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-     d="M 3.0722729,7.0712165 3.0859269,1.7863169 12.927876,7.0712165 Z"
+     d="M 3.4999999,7.5028661 3.5136539,2.2179665 13.355603,7.5028661 Z"
      sodipodi:nodetypes="cccc"
      inkscape:transform-center-y="-1.4225336" />
   <path
      id="path854"
      style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-     d="m 3.0722729,8.928784 0.013654,5.284899 9.8419491,-5.2848995 z"
+     d="M 3.4999999,9.5000005 3.5136539,14.7849 13.355603,9.5 Z"
      sodipodi:nodetypes="cccc"
      inkscape:transform-center-y="1.4225335" />
 </svg>
