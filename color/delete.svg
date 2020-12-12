@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg77"
+   sodipodi:docname="delete.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs81" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1202"
+     inkscape:window-height="640"
+     id="namedview79"
+     showgrid="false"
+     inkscape:zoom="16.59375"
+     inkscape:cx="16"
+     inkscape:cy="21.352074"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g75" />
+  <g
+     opacity="1"
+     inkscape:label="Layer1"
+     inkscape:groupmode="layer"
+     bgra:originalViewBox="-1 -1 34 34"
+     id="g75">
+    <defs
+       id="defs71">
+      <linearGradient
+         id="layer1-fillgrad1"
+         x1="16.649"
+         x2="16.75099"
+         y1="20.09899"
+         y2="0.7509913"
+         spreadMethod="pad"
+         gradientUnits="userSpaceOnUse"
+         color-interpolation="sRGB">
+        <stop
+           offset="0"
+           stop-color="#d5070c"
+           stop-opacity="1"
+           id="stop66" />
+        <stop
+           offset="1"
+           stop-color="#ffc4c4"
+           stop-opacity="1"
+           id="stop68" />
+      </linearGradient>
+    </defs>
+    <path
+       d="m 16,22 9,9 6,-6 -9,-9 9,-9 -6,-6 -9,9 -9,-9 -6,6 9,9 -9,9 6,6 z"
+       fill="url(#layer1-fillgrad1)"
+       stroke="#a30000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-opacity="0.7921569"
+       stroke-linejoin="bevel"
+       stroke-dasharray="none"
+       id="path73" />
+  </g>
+</svg>

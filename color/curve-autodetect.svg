@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g opacity="1" xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format" inkscape:label="Layer1" inkscape:groupmode="layer" bgra:originalViewBox="-1 -1 34 31">
+    <path d="M4 28 7.75 19.75 Q11.5 11.5 19.25 8.25 L27 5 27 28" fill="none" stroke="red" stroke-width="4" stroke-linecap="round" stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="none"/>
+    <ellipse cx="5" cy="5" rx="3.999994" ry="4" fill="white" stroke="black" fill-opacity="1" stroke-width="2.5" stroke-opacity="0.7921569" stroke-linejoin="round" stroke-dasharray="none"/>
+    <ellipse cx="27" cy="5" rx="3.99999" ry="4" fill="white" stroke="black" fill-opacity="1" stroke-width="2.5" stroke-opacity="0.7921569" stroke-linejoin="round" stroke-dasharray="none"/>
+  </g>
+</svg>

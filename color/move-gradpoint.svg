@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg365"
+   sodipodi:docname="move-gradpoint.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs369" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="675"
+     id="namedview367"
+     showgrid="false"
+     inkscape:zoom="16.59375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g363" />
+  <g
+     opacity="1"
+     inkscape:label="Layer1"
+     inkscape:groupmode="layer"
+     bgra:originalViewBox="2 1 25 30"
+     id="g363">
+    <defs
+       id="defs355">
+      <linearGradient
+         id="layer1-fillgrad1"
+         x1="5"
+         x2="33"
+         y1="5"
+         y2="33"
+         spreadMethod="pad"
+         gradientUnits="userSpaceOnUse"
+         color-interpolation="linearRGB">
+        <stop
+           offset="0"
+           stop-color="#3853ac"
+           stop-opacity="1"
+           id="stop350" />
+        <stop
+           offset="1"
+           stop-color="#9abbfc"
+           stop-opacity="1"
+           id="stop352" />
+      </linearGradient>
+    </defs>
+    <rect
+       x="5"
+       y="5"
+       fill="url(#layer1-fillgrad1)"
+       width="21"
+       height="22"
+       stroke="#203cba"
+       stroke-width="2"
+       stroke-opacity="0.7921569"
+       stroke-linejoin="bevel"
+       stroke-dasharray="none"
+       id="rect357" />
+    <circle
+       r="4"
+       cx="7"
+       cy="6"
+       fill="#fffbf0"
+       stroke="black"
+       fill-opacity="1"
+       stroke-width="2"
+       stroke-opacity="0.8235294"
+       stroke-linejoin="round"
+       stroke-dasharray="none"
+       id="circle359" />
+    <path
+       d="M 7,6.5 V 25 l 4,-2.5 3,6.5 4.5,-1.5 -3,-7 4.5,-1 z"
+       fill="#fffbf0"
+       stroke="black"
+       fill-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-dasharray="none"
+       id="path361" />
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg177"
+   sodipodi:docname="text-outline.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata183">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs181" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1038"
+     inkscape:window-height="618"
+     id="namedview179"
+     showgrid="false"
+     inkscape:zoom="16.59375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g175" />
+  <g
+     opacity="1"
+     inkscape:label="Layer1"
+     inkscape:groupmode="layer"
+     bgra:originalViewBox="-1 0 34 28"
+     id="g175">
+    <path
+       d="M23.84375 20.46875 23.84375 19.90625 Q23.84375 19.34375 24.53125 20.09375 25.21875 20.84375 25.71875 19.34375 26.21875 17.84375 25.8125 16.75 25.40625 15.65625 24.53125 16.5 23.65625 17.34375 23.8125 16.65625 23.96875 15.96875 23.96875 12.78125 L23.96875 9.59375 24.78125 9.15625 Q25.59375 8.71875 26.90625 9.03125 28.21875 9.34375 30.125 11.4375 32.03125 13.53125 32.1875 15.875 32.34375 18.21875 32.21875 20.5 32.09375 22.78125 30.09375 25 28.09375 27.21875 26.0625 27.09375 L24.03125 26.96875 23.96875 24.90625"
+       fill="black"
+       stroke="none"
+       fill-opacity="0.7921569"
+       id="path161" />
+    <rect
+       x="7.84375"
+       y="20.90625"
+       fill="black"
+       width="4.125"
+       height="5.6875"
+       stroke="none"
+       transform="translate(0 41.8125) scale(1 -1)"
+       fill-opacity="0.7921569"
+       id="rect163" />
+    <path
+       d="m 0.65625,26.03125 7.25,-22 h 3.9375 l 7.4375,21.875 h -4.4375 l -5,-14.375 -5,14.375 z"
+       fill="#4444ff"
+       stroke="black"
+       fill-opacity="1"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-opacity="0.7921569"
+       stroke-linejoin="miter"
+       stroke-dasharray="none"
+       id="path165" />
+    <rect
+       x="5.59375"
+       y="16.50001"
+       fill="#4444ff"
+       width="8.5625"
+       height="2.468739"
+       stroke="none"
+       fill-opacity="1"
+       id="rect167" />
+    <rect
+       x="19.09375"
+       y="25.96875"
+       fill="#4444ff"
+       width="3.9375"
+       height="22"
+       stroke="black"
+       transform="translate(0 51.9375) scale(1 -1)"
+       fill-opacity="1"
+       stroke-width="2"
+       stroke-opacity="0.7921569"
+       stroke-linejoin="miter"
+       stroke-dasharray="none"
+       id="rect169" />
+    <path
+       d="M22.46875 13.65625 23.59375 12.75 Q24.71875 11.84375 25.71875 11.875 26.71875 11.90625 27.9375 13.28125 29.15625 14.65625 29.1875 18.125 29.21875 21.59375 28 22.875 26.78125 24.15625 25.90625 24.125 25.03125 24.09375 23.6875 23.1875 L22.34375 22.28125"
+       fill="none"
+       stroke="#4444ff"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-opacity="1"
+       stroke-linejoin="round"
+       stroke-dasharray="none"
+       id="path171" />
+    <path
+       d="M28.84375 6.59375 0.09375 0.03125"
+       fill="black"
+       stroke="none"
+       fill-opacity="1"
+       id="path173" />
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg84"
+   sodipodi:docname="curve-movepoint.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs88" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="675"
+     id="namedview86"
+     showgrid="false"
+     inkscape:zoom="16.59375"
+     inkscape:cx="7.5630885"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g82" />
+  <g
+     opacity="1"
+     inkscape:label="Layer1"
+     inkscape:groupmode="layer"
+     bgra:originalViewBox="-1 -1 31 31"
+     id="g82">
+    <path
+       d="M4 4 9 4.75 Q14 5.5 18.25 8 22.5 10.5 24.5 14.5 26.5 18.5 27.25 23.25 L28 28"
+       fill="none"
+       stroke="red"
+       stroke-width="4"
+       stroke-linecap="round"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-dasharray="none"
+       id="path76" />
+    <ellipse
+       cx="5"
+       cy="5"
+       rx="3.999994"
+       ry="4"
+       fill="white"
+       stroke="black"
+       fill-opacity="1"
+       stroke-width="2.5"
+       stroke-opacity="0.7921569"
+       stroke-linejoin="round"
+       stroke-dasharray="none"
+       id="ellipse78" />
+    <path
+       d="M 5,4.999998 V 22 l 4.5,-2.5 2.5,6 4.5,-2 L 13,18 17,16 Z"
+       fill="white"
+       stroke="black"
+       fill-opacity="1"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-opacity="1"
+       stroke-linejoin="bevel"
+       stroke-dasharray="none"
+       id="path80" />
+  </g>
+</svg>

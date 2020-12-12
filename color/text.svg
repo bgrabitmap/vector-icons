@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g opacity="1" xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format" inkscape:label="Layer1" inkscape:groupmode="layer" bgra:originalViewBox="-1 0 33 27">
+    <path d="M-0.21875 26.09375 7.03125 4.09375 10.96875 4.09375 18.40625 25.96875 13.96875 25.96875 8.96875 11.59375 3.96875 25.96875" fill="#4444ff" stroke="none" fill-opacity="1"/>
+    <rect x="4.71875" y="16.03125" fill="#4444ff" width="8.5625" height="3.9375" stroke="none" fill-opacity="1"/>
+    <rect x="20.09375" y="26.03125" fill="#4444ff" width="3.9375" height="22" stroke="none" transform="translate(0 52.0625) scale(1 -1)" fill-opacity="1"/>
+    <path d="M23.28125 13.65625 24.40625 12.75 Q25.53125 11.84375 26.53125 11.875 27.53125 11.90625 28.75 13.28125 29.96875 14.65625 30 18.125 30.03125 21.59375 28.8125 22.875 27.59375 24.15625 26.71875 24.125 25.84375 24.09375 24.5 23.1875 L23.15625 22.28125" fill="none" stroke="#4444ff" stroke-width="4" stroke-linecap="round" stroke-opacity="1" stroke-linejoin="round" stroke-dasharray="none"/>
+    <path d="M28.84375 6.59375 0.09375 0.03125" fill="black" stroke="none" fill-opacity="1"/>
+  </g>
+</svg>

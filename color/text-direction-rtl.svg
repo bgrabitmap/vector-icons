@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg115"
+   sodipodi:docname="text-direction-rtl.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs119" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="675"
+     id="namedview117"
+     showgrid="false"
+     inkscape:zoom="16.59375"
+     inkscape:cx="8.6842728"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g113" />
+  <g
+     opacity="1"
+     inkscape:label="Layer1"
+     inkscape:groupmode="layer"
+     bgra:originalViewBox="-15 0 59 29"
+     id="g113">
+    <path
+       d="M3.5 22 10 15.5 10 20 28 20 28 24 10 24 10 28.5"
+       fill="black"
+       stroke="none"
+       fill-opacity="0.7921569"
+       id="path107" />
+    <text
+       x="24.527308"
+       y="0"
+       fill="#000000"
+       stroke="none"
+       font-size="15px"
+       font-style="normal"
+       font-family="FreeSans"
+       font-weight="normal"
+       fill-opacity="0.968628"
+       text-decoration=""
+       id="text111"><tspan
+         x="27.74431"
+         y="15"
+         direction="rtl"
+         id="tspan109">אבג</tspan></text>
+  </g>
+</svg>

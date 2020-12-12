@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g opacity="1" transform="translate(0 32) scale(1 -1)" xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format" inkscape:label="Layer1" inkscape:groupmode="layer" bgra:originalViewBox="3 0 26 32">
+    <defs>
+      <linearGradient id="layer1-fillgrad2" x1="17.625" x2="10.82499" y1="14.375" y2="30.775" spreadMethod="pad" gradientUnits="userSpaceOnUse" color-interpolation="linearRGB">
+        <stop offset="0" stop-color="#6ee30d" stop-opacity="1"/>
+        <stop offset="1" stop-color="#34b104" stop-opacity="1"/>
+      </linearGradient>
+      <linearGradient id="layer1-fillgrad3" x1="17.52501" x2="5.524992" y1="19.62499" y2="24.475" spreadMethod="pad" gradientUnits="userSpaceOnUse" color-interpolation="linearRGB">
+        <stop offset="0" stop-color="white" stop-opacity="0"/>
+        <stop offset="1" stop-color="#c4f7b7" stop-opacity="0.4627451"/>
+      </linearGradient>
+    </defs>
+    <path d="M8 32 8 22 3 22 3 17.5 16 4.5 29 17.5 29 22 24 22 24 32" fill="#046c00" stroke="none" fill-opacity="0.7921569"/>
+    <path d="M10 29.95 10 20 4.5 20 16 8 27.5 20 22 20 22 29.95" fill="url(#layer1-fillgrad2)" stroke="none"/>
+    <path d="M5 20 16 8 17.5 9.5 9 18 12 18 12 28 22 28 22 30 10.025 30.025 10 20" fill="url(#layer1-fillgrad3)" stroke="none"/>
+    <rect x="4" y="0" fill="#05a000" width="24" height="2" stroke="none" fill-opacity="1"/>
+  </g>
+</svg>

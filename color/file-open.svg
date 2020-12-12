@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g opacity="1" xmlns:bgra="https://wiki.freepascal.org/LazPaint_SVG_format" inkscape:label="Layer1" inkscape:groupmode="layer" bgra:originalViewBox="1 4 32 27">
+    <defs>
+      <linearGradient id="layer1-fillgrad1" x1="6.116999" x2="5.981458" y1="6.848484" y2="16.50048" spreadMethod="pad" gradientUnits="userSpaceOnUse" color-interpolation="linearRGB">
+        <stop offset="0" stop-color="#fff688" stop-opacity="1"/>
+        <stop offset="1" stop-color="#cac27c" stop-opacity="1"/>
+      </linearGradient>
+      <linearGradient id="layer1-fillgrad2" x1="12.817" x2="19.73146" y1="14.29848" y2="25.05048" spreadMethod="pad" gradientUnits="userSpaceOnUse" color-interpolation="linearRGB">
+        <stop offset="0" stop-color="#fff688" stop-opacity="1"/>
+        <stop offset="1" stop-color="#aaa361" stop-opacity="1"/>
+      </linearGradient>
+    </defs>
+    <path d="M3.024998 29.02498 3.024998 18.42499 Q3.024998 7.825 3.374998 6.625 L3.724998 5.425 4.399998 5.175 Q5.074998 4.925 13.95 5.925 22.825 6.925 23.825 7.4 24.825 7.875 25.175 8.574999 25.525 9.274998 24.22499 19.07499 L22.92499 28.87498 z" fill="url(#layer1-fillgrad1)" stroke="#785c03" stroke-width="2" stroke-linecap="round" stroke-opacity="0.6745098" stroke-linejoin="bevel" stroke-dasharray="none"/>
+    <path d="M2.824998 29.02499 5.749996 22.82499 Q8.674994 16.625 9.524996 15.175 10.375 13.725 12.15 13.175 13.925 12.62499 20.35 10.975 26.775 9.324997 28.925 10.325 L31.075 11.32499 31.075 12.47499 Q31.07499 13.625 27.54999 21.29999 L24.025 28.97499 z" fill="url(#layer1-fillgrad2)" stroke="#785500" stroke-width="2" stroke-linecap="round" stroke-opacity="0.6745098" stroke-linejoin="round" stroke-dasharray="none"/>
+  </g>
+</svg>
