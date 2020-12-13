@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8">
+  <metadata
+     id="metadata945">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs943" />
+  <path
+     id="rect1439"
+     style="fill:#000000;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="M 3.6347656 2 C 2.7285652 2 2 2.7285652 2 3.6347656 L 2 12.365234 C 2 13.271434 2.7285652 14 3.6347656 14 L 12.365234 14 C 13.271434 14 14 13.271434 14 12.365234 L 14 4.7265625 L 11.273438 2 L 3.6347656 2 z M 5 3 L 8 3 L 8 5 L 9 5 L 9 3 L 10 3 L 10 6 L 5 6 L 5 3 z M 5 8 L 11 8 C 11.554 8 12 8.446 12 9 L 12 11 C 12 11.554 11.554 12 11 12 L 5 12 C 4.446 12 4 11.554 4 11 L 4 9 C 4 8.446 4.446 8 5 8 z " />
+</svg>
